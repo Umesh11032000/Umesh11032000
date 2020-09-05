@@ -29,8 +29,7 @@
 - 🤔 I’m looking for help with MERN
 - 📫 How to reach me: [Twitter - @Umesh99983286](https://twitter.com/Umesh99983286)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Listening Music
-
+- ⚡ Fun fact: Watching The Kapil Sharma Show
 
 [![Twitter: @Umesh99983286](https://img.shields.io/twitter/follow/Umesh99983286?style=social)](https://twitter.com/Umesh99983286)
 [![Linkedin: umesh-prajapati-b75bbb153](https://img.shields.io/badge/-UmeshPrajapati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umesh-prajapati-b75bbb153/)](https://www.linkedin.com/in/umesh-prajapati-b75bbb153/)
