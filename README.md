@@ -23,10 +23,10 @@
 <br>
 
 
-- 🔭 I’m currently working on Reactjs
-- 🌱 I’m currently learning Nodejs
+- 🔭 I’m currently working on laravel
+- 🌱 I’m currently learning VueJs
 - 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with MERN
+- 🤔 I’m looking for help with Laravel
 - 📫 How to reach me: [Twitter - @Umesh99983286](https://twitter.com/Umesh99983286)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Watching The Kapil Sharma Show
