@@ -1,28 +1,25 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF2D20&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Umesh+Prajapati!;Laravel+Dev+%7C+Frontend+%26+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF2D20¢er=true&vCenter=true&width=435&lines=Hey%2C+I'm+Umesh+Prajapati!;Full-Stack+Dev+%7C+Laravel+%26+Frontend" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <em>Laravel Developer | React & Vue Enthusiast | DevOps Explorer | Building Scalable Solutions</em>
+  <em>Full-Stack Dev | Laravel, React, Vue | DevOps Enthusiast | Crafting End-to-End Solutions</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/umesh-prajapati" target="_blank">
+  <a href="https://linkedin.com/in/umeshp1103" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:umesh.prajapati@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
 ### 🌟 About Me
-- 🔭 I’m currently working on **Laravel-based backend solutions**.
-- 🌱 I’m learning **advanced DevOps pipelines** and **Vue.js 3**.
-- 👯 I’m open to collaborating on **full-stack projects**.
-- 💬 Ask me about **Laravel, React, or CI/CD workflows**.
-- ⚡ Fun fact: **I debug code faster than I brew coffee!**
+- 🖥️ I’m passionate about **building robust full-stack applications**.
+- 🌐 I specialize in **seamless backend-frontend integration**.
+- 🤝 I enjoy **teaming up to solve complex tech challenges**.
+- 🎯 My focus is on **delivering scalable, efficient systems**.
+- 😄 Random tidbit: **I code best with a strong cup of chai!**
 
 ---
 
@@ -39,25 +36,24 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UmeshPrajapati&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Umesh11032000&color=blue" alt="Profile Views" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmeshPrajapati&show_icons=true&theme=onedark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshPrajapati&layout=compact&theme=onedark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Umesh11032000&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh11032000&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmeshPrajapati&theme=onedark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umesh11032000&theme=onedark" alt="Contribution Graph" />
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UmeshPrajapati&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Umesh11032000&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 📫 Let’s Connect!
-- **LinkedIn**: [linkedin.com/in/umesh-prajapati](https://linkedin.com/in/umesh-prajapati)
-- **Email**: [umesh.prajapati@example.com](mailto:umesh.prajapati@example.com)
+- **LinkedIn**: [https://linkedin.com/in/umeshp1103](https://linkedin.com/in/umeshp1103)
